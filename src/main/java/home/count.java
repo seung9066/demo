@@ -1,3 +1,4 @@
+package home;
 // 파란구슬 1, 빨간 구슬 3으로 서로 ㄴ자 모양으로 감싼다. 점차 커지는 두 구슬 총 합의 차이가 28일 때 두 구슬 총합의 수는?
 public class count {
     public static void main(String[] args) {
